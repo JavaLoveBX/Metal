@@ -1,0 +1,40 @@
+.Services{
+background-color: rgb(208, 199, 199);
+    width: 70%;
+
+    margin-left:15% ;
+    margin-right:15% ;
+    margin-top:5% ;
+
+}
+.Title{
+    text-align: center;
+    font-size: 60px;
+}
+.headings{
+    font-size: 60px;
+    text-align: center;
+    color: rgb(244, 81, 11);
+}
+.headings2{
+    font-size: 60px;
+    text-align: center;
+    color: darkgreen;
+}
+
+.sectionOne{
+    font-size: 40px;
+    margin-left: 5%;;
+}
+.sectionTwo{
+    font-size: 40px;
+    margin-left: 5%;;
+}
+.sectionThree{
+    font-size: 40px;
+    margin-left: 5%;;
+}
+.sectionTwo{
+    font-size: 40px;
+    margin-left: 5%;;
+}
