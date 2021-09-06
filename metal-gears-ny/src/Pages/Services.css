@@ -4,7 +4,7 @@ background-color: rgb(208, 199, 199);
 
     margin-left:15% ;
     margin-right:15% ;
-    margin-top:5% ;
+    margin-top:25% ;
 
 }
 .Title{
@@ -37,4 +37,51 @@ background-color: rgb(208, 199, 199);
 .sectionTwo{
     font-size: 40px;
     margin-left: 5%;;
+}
+
+
+@media only screen and (max-width: 800px) {
+
+    .Services{
+        background-color: rgb(208, 199, 199);
+            width: 90%;
+        
+            margin-left:5% ;
+            margin-right:5% ;
+            margin-top:55% ;
+        
+        }
+        .Title{
+            text-align: center;
+            font-size: 60px;
+        }
+        .headings{
+            font-size: 30px;
+            text-align: center;
+            color: rgb(244, 81, 11);
+        }
+        .headings2{
+            font-size: 30px;
+            text-align: center;
+            color: darkgreen;
+        }
+        
+        .sectionOne{
+            font-size: 30px;
+            margin-left: 5%;;
+        }
+        .sectionTwo{
+            font-size: 30px;
+            margin-left: 5%;;
+        }
+        .sectionThree{
+            font-size: 30px;
+            margin-left: 5%;;
+        }
+        .sectionTwo{
+            font-size: 30px;
+            margin-left: 5%;;
+        }
+
+
 }

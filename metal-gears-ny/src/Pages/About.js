@@ -9,7 +9,7 @@ function About() {
      <main className="About">
    
 <div className="left-div">
-<NavLink to="/">    <h2> Back</h2></NavLink>
+{/* <NavLink to="/">    <h2> Back</h2></NavLink> */}
     <div className="one">  
     {/* <div className="font-top">We can service all of your needs</div> */}
        <p className="first-p">We specialize in repair/modification/fabrication of all things made in metal. Our capabilities include the following metals: Stainless, Steel, Aluminum, Brass, Bronze, Copper, and Zinc.

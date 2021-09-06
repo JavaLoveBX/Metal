@@ -2,7 +2,7 @@
     display:flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    margin:5%;
+    margin-top:30%;
 }
 img{
     width: 500px;
@@ -10,4 +10,29 @@ img{
 }
 li{
     margin:5%;
+}
+
+
+
+@media only screen and (max-width: 800px) {
+
+    .pics{
+        display:flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        /* margin:5%; */
+        margin-top:40%;
+    }
+    img{
+        width: 500px;
+        height: 500px;
+    }
+    li{
+        margin:5%;
+    }
+    
+
+
+
+
 }

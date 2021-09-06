@@ -12,7 +12,7 @@ function Services() {
    return (
      <div>
 
-<NavLink to="/">    <h2> Back</h2></NavLink>
+{/* <NavLink to="/">    <h2> Back</h2></NavLink> */}
 
      <main className="Services">
      

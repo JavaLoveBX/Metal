@@ -16,6 +16,7 @@ import Services from "./Pages/Services.js";
 function App() {
   return (
     <div className="App">
+      
       <Router>
         <NavBar className="nav"/>
           <Switch>

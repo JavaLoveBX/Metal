@@ -1,13 +1,19 @@
- import HomeDetails from "../Components/HomeDetails"
+  // import jumboPic from "../Components/Images/jumboPic.jpg"
  import "./Home.css"
-
+import HomeDetails from "../Components/HomeDetails.js"
 
 function Home() {
     return (
       <main className="Home">
-        <h2 classNme="MG"> Metal Gears</h2>
 
-        <HomeDetails />
+<div className="jumbotron">
+
+</div>
+
+
+   
+
+        <HomeDetails /> 
       </main>
     );
   }

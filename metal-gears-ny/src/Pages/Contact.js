@@ -5,7 +5,7 @@
 function Contact() {
    return (
      <main className="contact">
-<NavLink to="/">    <h2> Back</h2></NavLink>
+{/* <NavLink to="/">    <h2> Back</h2></NavLink> */}
 
 
        <address>

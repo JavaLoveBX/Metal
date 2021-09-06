@@ -11,8 +11,8 @@ import "./Gallery.css"
 function Gallery() {
   return (
     <main className="Gallery">
-      <NavLink to="/">    <h2> Back</h2></NavLink>
-      <h2>Metal Gear</h2>
+      {/* <NavLink to="/">    <h2> Back</h2></NavLink>
+      <h2>Metal Gear</h2> */}
       {/* <Username currentUser={currentUser}/>*/}
       {/* <ShirtsList />  */}
       <ul className="pics">

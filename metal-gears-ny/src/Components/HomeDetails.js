@@ -88,6 +88,8 @@ function HomeDetails() {
           className="d-block w-100"
           src={one}
           alt="First slide"
+          style={{width:"70%",
+        height:"80%"}}
         />
 
 
@@ -122,6 +124,8 @@ function HomeDetails() {
           className="d-block w-100"
           src={three}
           alt="Third slide"
+          style={{width:"70%",
+          height:"80%"}}
         />
 
 </Carousel.Item>
